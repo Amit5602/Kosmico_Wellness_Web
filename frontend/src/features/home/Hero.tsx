@@ -51,7 +51,7 @@ export function Hero() {
             <div className="relative w-full max-w-md aspect-square rounded-full bg-primary/5 flex items-center justify-center p-8">
               <img
                 src="/assets/products/product-box.jpg"
-                alt="Sweet Monk Monk Fruit Sweetener Box"
+                alt="Kosmiko Wellness Monk Fruit Sweetener Box"
                 className="w-full h-auto object-contain drop-shadow-2xl z-10"
               />
               {/* Decorative blob behind image */}

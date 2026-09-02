@@ -1,4 +1,4 @@
-# Sweet Monk - User Flows
+# Kosmiko Wellness - User Flows
 
 ## 1. Primary Customer Journey (Shopping Flow)
 

@@ -1,4 +1,4 @@
-﻿import { Container } from '../components/ui/Container';
+import { Container } from '../components/ui/Container';
 
 export function PrivacyPolicy() {
   return (
@@ -15,7 +15,7 @@ export function PrivacyPolicy() {
 
         <section>
           <p className="mb-4">
-            Welcome to The Sweet Monk ("we," "our," "us"). This Privacy Policy
+            Welcome to Kosmiko Wellness Pvt. Ltd. ("we," "our," "us"). This Privacy Policy
             explains how we collect, use, disclose, and safeguard your
             information when you use our mobile application and website
             (collectively, the "Service").
@@ -387,7 +387,7 @@ export function PrivacyPolicy() {
             Policy or your personal data, please contact us at:
           </p>
 
-          <p className="mb-4 font-bold">The Sweet Monk</p>
+          <p className="mb-4 font-bold"></p>
 
           <p>
             Email:{' '}

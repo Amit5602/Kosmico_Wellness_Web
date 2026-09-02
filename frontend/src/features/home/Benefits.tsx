@@ -24,7 +24,7 @@ const benefits = [
     icon: ThumbsUp,
     title: 'No Bitter Aftertaste',
     description:
-      'Unlike stevia or artificial sweeteners, Sweet Monk provides a clean, pure, sugar-like taste.',
+      'Unlike stevia or artificial sweeteners, Kosmiko Wellness provides a clean, pure, sugar-like taste.',
   },
 ];
 

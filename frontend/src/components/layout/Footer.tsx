@@ -9,7 +9,7 @@ export function Footer() {
       <Container>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
           <div className="col-span-1 md:col-span-1">
-            <h3 className="font-serif text-2xl font-bold text-accent mb-4">Sweet Monk</h3>
+            <h3 className="font-serif text-2xl font-bold text-accent mb-4">Kosmiko Wellness</h3>
             <p className="text-secondary/80 text-sm leading-relaxed mb-6">
               The natural, zero-calorie monk fruit sweetener that tastes just like sugar. Pure
               sweetness, no compromises.
@@ -93,7 +93,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-white/20 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-secondary/60">
-          <p>&copy; {new Date().getFullYear()} Sweet Monk. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Kosmiko Wellness. All rights reserved.</p>
           <div className="flex space-x-4 mt-4 md:mt-0">
             <Link to="/privacy" className="hover:text-white">
               Privacy Policy

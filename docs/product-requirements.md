@@ -1,8 +1,8 @@
-# Sweet Monk - Product Requirements Document (PRD)
+# Kosmiko Wellness - Product Requirements Document (PRD)
 
 ## 1. Product Overview
 
-Sweet Monk is a premium D2C e-commerce website selling Monk Fruit Sweetener. The platform provides a modern, trustworthy, health/wellness-oriented shopping experience.
+Kosmiko Wellness is a premium D2C e-commerce website selling Monk Fruit Sweetener. The platform provides a modern, trustworthy, health/wellness-oriented shopping experience.
 
 ## 2. Target Audience
 

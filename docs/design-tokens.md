@@ -1,4 +1,4 @@
-# Sweet Monk - Design Tokens
+# Kosmiko Wellness - Design Tokens
 
 ## 1. Colors
 

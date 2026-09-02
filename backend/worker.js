@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const { redisConfig } = require('./config/redis');
 const notificationService = require('./services/notificationService');
 
-console.log('Starting Sweet Monk Background Worker...');
+console.log('Starting Kosmiko Wellness Background Worker...');
 
 const connectDB = async () => {
   try {

@@ -1,4 +1,4 @@
-# Sweet Monk - Information Architecture
+# Kosmiko Wellness - Information Architecture
 
 ## 1. Public Website Structure
 
@@ -9,7 +9,7 @@
 - `/ingredients` - Detailed Ingredient Breakdown
 - `/benefits` - Health Benefits of Monk Fruit
 - `/how-it-works` - Usage Instructions
-- `/comparison` - Sweet Monk vs. Sugar vs. Other Substitutes
+- `/comparison` - Kosmiko Wellness vs. Sugar vs. Other Substitutes
 - `/reviews` - Global Customer Reviews
 - `/faq` - Frequently Asked Questions
 - `/contact` - Customer Support / Contact Form

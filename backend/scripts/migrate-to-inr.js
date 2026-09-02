@@ -6,14 +6,14 @@ const Product = require('../models/Product');
 // Do not arbitrarily multiply by 80. Determine the exact market price in INR.
 const PRICE_MAP = {
   // Example mapping. Fill these with actual business decisions before running.
-  "Sweet Monk Classic": {
+  "Kosmiko Classic": {
     basePrice: 1499,
     variants: {
       "16 oz": { price: 1499, compareAtPrice: 1999 },
       "32 oz": { price: 2499, compareAtPrice: 2999 }
     }
   },
-  "Sweet Monk Golden": {
+  "Kosmiko Golden": {
     basePrice: 1599,
     variants: {
       "16 oz": { price: 1599, compareAtPrice: 2099 },

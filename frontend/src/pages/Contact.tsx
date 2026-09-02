@@ -6,7 +6,7 @@ export function Contact() {
     <Container className="py-24 max-w-4xl mx-auto">
       <h1 className="text-4xl font-serif font-bold text-primary mb-6 text-center">Contact Us</h1>
       <p className="text-text-muted text-center mb-16 text-lg max-w-2xl mx-auto">
-        Have questions about Sweet Monk? We'd love to hear from you. Fill out the form below or reach out to us directly.
+        Have questions about Kosmiko Wellness? We'd love to hear from you. Fill out the form below or reach out to us directly.
       </p>
 
       <div className="grid md:grid-cols-2 gap-12">

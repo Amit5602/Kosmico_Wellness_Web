@@ -1,4 +1,4 @@
-# Sweet Monk - Admin Requirements
+# Kosmiko Wellness - Admin Requirements
 
 ## 1. Admin System Overview
 

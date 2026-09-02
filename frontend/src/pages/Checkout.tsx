@@ -170,7 +170,7 @@ export const Checkout = () => {
           key: paymentData.keyId,
           amount: paymentData.amount,
           currency: paymentData.currency,
-          name: 'Sweet Monk',
+          name: 'Kosmiko Wellness',
           description: `Order ${order.orderNumber}`,
           order_id: paymentData.providerOrderId,
           handler: function (response: any) {

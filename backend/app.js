@@ -54,7 +54,7 @@ app.get('/api/v1/health', (req, res) => {
   const { redis } = require('./config/redis');
   res.status(200).json({
     success: true,
-    message: 'Sweet Monk API is healthy',
+    message: 'Kosmiko Wellness API is healthy',
     environment: process.env.NODE_ENV || 'development',
     services: {
       redis: redis.status === 'ready' ? 'healthy' : 'unavailable'

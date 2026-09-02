@@ -49,7 +49,7 @@ const seedData = async () => {
 
     const products = [
       {
-        name: 'Sweet Monk Classic',
+        name: 'Kosmiko Classic',
         slug: 'classic-monk-fruit-sweetener',
         description: 'Our classic 1:1 sugar replacement. Perfect for baking, coffee, and everyday use.',
         shortDescription: 'Classic 1:1 sugar replacement.',
@@ -67,7 +67,7 @@ const seedData = async () => {
         ]
       },
       {
-        name: 'Sweet Monk Golden',
+        name: 'Kosmiko Golden',
         slug: 'golden-monk-fruit-sweetener',
         description: 'A rich, brown-sugar-like replacement perfect for cookies and marinades.',
         shortDescription: 'Brown-sugar-like replacement.',
@@ -85,7 +85,7 @@ const seedData = async () => {
         ]
       },
       {
-        name: 'Sweet Monk Liquid Drops',
+        name: 'Kosmiko Liquid Drops',
         slug: 'liquid-monk-fruit-drops',
         description: 'Concentrated liquid sweetness. Perfect for cold beverages and smoothies.',
         shortDescription: 'Concentrated liquid sweetness.',

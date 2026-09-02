@@ -1,4 +1,4 @@
-# Sweet Monk - Functional Requirements
+# Kosmiko Wellness - Functional Requirements
 
 ## 1. Product System
 

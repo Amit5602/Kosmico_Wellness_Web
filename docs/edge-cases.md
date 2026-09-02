@@ -1,4 +1,4 @@
-# Sweet Monk - Edge Cases & Mitigation Strategies
+# Kosmiko Wellness - Edge Cases & Mitigation Strategies
 
 ## 1. Inventory & Cart
 

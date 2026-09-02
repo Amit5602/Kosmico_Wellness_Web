@@ -9,19 +9,19 @@ const faqs = [
       'Monk fruit, also known as Luo Han Guo, is a small green melon native to Southeast Asia. It has been used for centuries in traditional Eastern medicine and gets its sweetness from natural compounds called mogrosides, which are up to 250 times sweeter than regular sugar but contain zero calories.',
   },
   {
-    question: 'Does Sweet Monk have an aftertaste?',
+    question: 'Does Kosmiko Wellness have an aftertaste?',
     answer:
       'Unlike many artificial sweeteners or stevia, our proprietary blend of monk fruit extract and erythritol is specifically crafted to mimic the clean, crisp taste of cane sugar without any bitter or chemical aftertaste.',
   },
   {
-    question: 'Can I bake with Sweet Monk?',
+    question: 'Can I bake with Kosmiko Wellness?',
     answer:
-      'Yes! Sweet Monk measures cup-for-cup like sugar (a 1:1 ratio), making it incredibly easy to use in your favorite baking recipes. It browns and provides the same texture as traditional sugar.',
+      'Yes! Kosmiko Wellness measures cup-for-cup like sugar (a 1:1 ratio), making it incredibly easy to use in your favorite baking recipes. It browns and provides the same texture as traditional sugar.',
   },
   {
     question: 'Is it safe for diabetics?',
     answer:
-      'Sweet Monk contains zero calories and zero net carbs, meaning it does not spike blood glucose or insulin levels, making it a popular choice for individuals managing diabetes or following a ketogenic diet.',
+      'Kosmiko Wellness contains zero calories and zero net carbs, meaning it does not spike blood glucose or insulin levels, making it a popular choice for individuals managing diabetes or following a ketogenic diet.',
   },
   {
     question: 'What is Erythritol and why is it included?',
@@ -42,7 +42,7 @@ export function Faq() {
               Got Questions?
             </h2>
             <p className="text-text-muted mb-6">
-              Learn more about Sweet Monk, our ingredients, and how to use it in your daily life.
+              Learn more about Kosmiko Wellness, our ingredients, and how to use it in your daily life.
             </p>
           </div>
 
