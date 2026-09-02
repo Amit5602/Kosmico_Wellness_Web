@@ -7,11 +7,11 @@ export function Ingredients() {
         <div className="flex flex-col lg:flex-row items-center gap-12 lg:gap-16">
           <div className="w-full lg:w-1/2 flex flex-col justify-center">
             <h2 className="text-3xl md:text-4xl font-serif font-bold text-primary-dark mb-6">
-              Just two simple ingredients.
+              Clean &amp; Simple Ingredients.
             </h2>
             <p className="text-lg text-text-muted mb-8 leading-relaxed">
-              We believe in complete transparency. Our classic sweetener is made with only two
-              premium ingredients, expertly blended to match the sweetness of sugar perfectly.
+              We believe in complete transparency. Our sweetener drops are made with pure,
+              high-quality ingredients—crafted with zero sugar alcohols, zero calories, and zero net carbs.
             </p>
 
             <div className="space-y-8">
@@ -22,7 +22,7 @@ export function Ingredients() {
                 <div>
                   <h3 className="text-xl font-bold text-primary-dark mb-2">Monk Fruit Extract</h3>
                   <p className="text-text-muted">
-                    A small sub-tropical melon that provides intense, natural sweetness without any
+                    A small sub-tropical melon extract that provides intense, natural sweetness without any
                     calories or impact on blood sugar.
                   </p>
                 </div>
@@ -33,10 +33,21 @@ export function Ingredients() {
                   2
                 </div>
                 <div>
-                  <h3 className="text-xl font-bold text-primary-dark mb-2">Erythritol</h3>
+                  <h3 className="text-xl font-bold text-primary-dark mb-2">Purified Water</h3>
                   <p className="text-text-muted">
-                    A naturally occurring sugar alcohol found in fruits like grapes and pears. It
-                    provides the bulk and texture of sugar.
+                    Pure liquid base that allows for easy, fast-dissolving drops in hot and cold beverages.
+                  </p>
+                </div>
+              </div>
+
+              <div className="flex gap-4">
+                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-secondary flex items-center justify-center text-primary font-bold text-xl">
+                  3
+                </div>
+                <div>
+                  <h3 className="text-xl font-bold text-primary-dark mb-2">Ascorbic Acid (Vitamin C)</h3>
+                  <p className="text-text-muted">
+                    A natural dietary antioxidant used to preserve fresh taste, purity, and product quality.
                   </p>
                 </div>
               </div>
@@ -57,3 +68,4 @@ export function Ingredients() {
     </section>
   );
 }
+

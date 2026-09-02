@@ -11,12 +11,12 @@ const faqs = [
   {
     question: 'Does Kosmiko Wellness have an aftertaste?',
     answer:
-      'Unlike many artificial sweeteners or stevia, our proprietary blend of monk fruit extract and erythritol is specifically crafted to mimic the clean, crisp taste of cane sugar without any bitter or chemical aftertaste.',
+      'Unlike many artificial sweeteners or stevia, our liquid monk fruit drops are specifically crafted to mimic the clean, crisp taste of cane sugar without any bitter or chemical aftertaste or sugar alcohols.',
   },
   {
     question: 'Can I bake with Kosmiko Wellness?',
     answer:
-      'Yes! Kosmiko Wellness measures cup-for-cup like sugar (a 1:1 ratio), making it incredibly easy to use in your favorite baking recipes. It browns and provides the same texture as traditional sugar.',
+      'Yes! Kosmiko Wellness drops can be used in your favorite beverages, recipes, and liquid preparations to add clean sweetness.',
   },
   {
     question: 'Is it safe for diabetics?',
@@ -24,9 +24,9 @@ const faqs = [
       'Kosmiko Wellness contains zero calories and zero net carbs, meaning it does not spike blood glucose or insulin levels, making it a popular choice for individuals managing diabetes or following a ketogenic diet.',
   },
   {
-    question: 'What is Erythritol and why is it included?',
+    question: 'Does Sweet Monk contain sugar alcohols or Erythritol?',
     answer:
-      'Because pure monk fruit extract is intensely sweet, we blend it with erythritol (a naturally occurring sugar alcohol found in fruits like grapes) to provide the same volume and texture as sugar, allowing for an easy 1:1 replacement in recipes.',
+      'No. Sweet Monk drops contain zero sugar alcohols like erythritol. Our sweetener drops are made with pure monk fruit extract, purified water, and ascorbic acid (Vitamin C).',
   },
 ];
 
