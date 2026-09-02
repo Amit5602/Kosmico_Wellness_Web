@@ -1,7 +1,7 @@
 import { cn } from '../../utils/cn';
 
 interface ContainerProps extends React.HTMLAttributes<HTMLDivElement> {
-  children: React.ReactNode;
+  children?: React.ReactNode;
 }
 
 export function Container({ className, children, ...props }: ContainerProps) {
